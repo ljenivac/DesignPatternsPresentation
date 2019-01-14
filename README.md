@@ -12,3 +12,4 @@ https://dzone.com/refcardz/refactoring-patterns?chapter=3 <br>
 
 
 https://docs.google.com/presentation/d/1cBqT6ijecxa-45-VciNDOF5j67YiPq9qbj6q4-EERNI/edit#slide=id.p1
+https://docs.google.com/document/d/1nchjUtlfAepyb6qytS-Zq2f1g5awND8qhYrV1r5ncCg/edit?usp=sharing
